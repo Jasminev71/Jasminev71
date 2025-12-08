@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="https://github.com/Jasminev71?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-QA%20%26%20Automation-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Focus-QA%20%26%20Automation-purple?style=for-the-badge](https://img.shields.io/badge/FOCUS-QA%20%26%20Automation-purple" />
   </a>
-  <img src="https://img.shields.io/badge/Loves-Playwright%2C%20WDIO%2C%20APIs-pink?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Currently%20Learning-AWS%20%26%20AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LOVES-WebdriverIO%20%7C%20API%20Testing%20%7C%20MySQL-pink" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-AWS%20%26%20AI-blue?style=for-the-badg](https://img.shields.io/badge/Currently%20Learning-AWS%20%7C%20AI%20%7C%20Playwright-blue](https://img.shields.io/badge/Currently%20Learning-AWS%20%7C%20AI%20%7C%20Playwright-1f78d1" />
 </p>
 
 ---
