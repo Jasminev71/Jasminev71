@@ -56,6 +56,16 @@ I love breaking things **on purpose** and then figuring out *why* they broke.
   - Bug reports  
   - Notes on testing techniques and SDLC  
 
+
+### 🏅 Certifications
+
+- **B.S. Computer Science** – SNHU (Mar 2026)
+- **Software Quality Assurance Certification** – MTECH (Dec 2025)
+- **GitHub Foundations Certification** – GitHub/Microsoft (Dec 2025)
+- **GitHub Copilot Certification** – GitHub/Microsoft (Dec 2025)
+- **AWS Cloud Practitioner** – Amazon Web Services (Dec 2025)
+- **AWS AI Practitioner** – Amazon Web Services (Dec 2025)
+
 ### 🔹 CS Projects with a QA Mindset
 
 - ⚙️ **[SNHU-CS-230](https://github.com/Jasminev71/SNHU-CS-230)**  
@@ -63,7 +73,8 @@ I love breaking things **on purpose** and then figuring out *why* they broke.
 
 - 🎮 **[CS-330-Snhu](https://github.com/Jasminev71/CS-330-Snhu)**  
   Graphics / C++ project showcasing problem-solving, performance awareness, and clean code structure.
-
+- 🤖🛠️ **[JUnit Testing](https://github.com/Jasminev71/CS-320-Software-Testing-)
+   Java application development and unit testing using JUnit frameworks.
 > _Future additions:_ Playwright end-to-end project, API testing collection (Postman), and a small performance testing demo.
 
 ---
@@ -94,18 +105,6 @@ I love breaking things **on purpose** and then figuring out *why* they broke.
   <img src="https://img.shields.io/badge/Azure%20AI-studying-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jasminev71&show_icons=true&theme=radical&count_private=true" alt="Jasmine's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasminev71&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=Jasminev71&theme=radical" alt="GitHub streak" />
-</p>
 
 ---
 
@@ -113,7 +112,7 @@ I love breaking things **on purpose** and then figuring out *why* they broke.
 
 - ✅ Strengthening **Playwright + Javascript** for UI automation  
 - ✅ Building **API testing** and **Postman** collections  
-- ✅ Earning: GitHub Copilot, AWS Cloud/AI practitioner certs, and Azure AI Engineer (longer-term)  
+- ✅ Earning:, AWS Cloud/AI practitioner certs, and Azure AI Engineer(Jan 2026)
 - ✅ Creating more **QA-focused repos**: performance testing, AI-assisted QA, and cross-browser testing demos  
 
 If you’re a recruiter, mentor, or fellow QA/Dev — feel free to reach out, review my projects, or suggest ideas to break **even more** things in interesting ways. 🐛✨
