@@ -21,10 +21,10 @@
 
 Hi, I’m **Jasmine** (she/her) — a CS student and Software QA student building a career as a **QA Engineer / SDET**.
 
-- 🎓 **Student:** CS undergrad at **SNHU** + Software QA certificate student at **Mountainland Technical College (MTECH)**  
+- 🎓 **Student:** CS undergrad at **SNHU** + Software QA Student at **Mountainland Technical College (MTECH)**  
 - 🧪 **QA Focus:** Test automation, exploratory testing, API testing, and CI/CD  
-- 💻 **Languages I use:** JavaScript,Java (with a growing interest in C# for automation)  
-- 🚀 **Short-term goal:** Land my first QA/SDET role by combining strong fundamentals with real-world projects  
+- 💻 **Languages I use:** JavaScript, Java (with a growing interest in C# for automation)  
+- 🚀 **Short-term goal:** Land my first QA role by combining strong fundamentals with real-world projects  
 - 📚 **Currently learning:** Playwright, AWS Cloud basics, GitHub Copilot, and Azure AI engineering concepts  
 
 I love breaking things **on purpose** and then figuring out *why* they broke.
@@ -53,9 +53,10 @@ I love breaking things **on purpose** and then figuring out *why* they broke.
 - 📋 **[QA--MTECH](https://github.com/Jasminev71/QA--MTECH)**  
   Artifacts from my Software QA program:
   - Test plans & test cases  
-  - Bug reports  
-  - Notes on testing techniques and SDLC  
-
+  - Bug reports
+    
+- 📘 **[QA Capstone](https://github.com/Jasminev71/ThriftBooks-testing)**  
+End-to-end QA documentation portfolio including a full test plan, test strategy, detailed test cases, exploratory testing notes, and defect reports for a real e-commerce workflow. Demonstrates professional QA processes, traceability, and clear communication.
 
 ### 🏅 Certifications
 
@@ -68,13 +69,23 @@ I love breaking things **on purpose** and then figuring out *why* they broke.
 
 ### 🔹 CS Projects with a QA Mindset
 
-- ⚙️ **[SNHU-CS-230](https://github.com/Jasminev71/SNHU-CS-230)**  
-  Operating platforms coursework — includes documentation and design that supports testability.
+- ⚙️ **[Draw it or Lose it App design](https://github.com/Jasminev71/Draw-It-or-Lose-It-App-design)**  
 
-- 🎮 **[CS-330-Snhu](https://github.com/Jasminev71/CS-330-Snhu)**  
+   An application concept designed with testability and maintainability in mind.
+
+- 🎮 **[Graphic scene using C++ ](https://github.com/Jasminev71/C-Graphics)**  
+
   Graphics / C++ project showcasing problem-solving, performance awareness, and clean code structure.
-- 🤖🛠️ **[JUnit Testing](https://github.com/Jasminev71/CS-320-Software-Testing-)
-   Java application development and unit testing using JUnit frameworks.
+- 🤖 **[JUnit Testing](https://github.com/Jasminev71/CS-320-Software-Testing-)**
+
+  Java application development and unit testing using JUnit frameworks.
+- 🧬 **[Deep Learning Model Development & Testing](https://github.com/Jasminev71/CS-370-Current-Emerging-Trends)**
+  
+  Built and evaluated a neural network for image classification, including data preprocessing, model validation, performance analysis, and troubleshooting model behavior.
+
+- 🔐 **[Secure Software Development & Dependency Scanning](https://github.com/Jasminev71/Secure-Software-Development)**
+  
+  Implemented OWASP Dependency-Check to identify vulnerabilities, improve software security, and integrate secure coding practices into the development lifecycle.
 > _Future additions:_ Playwright end-to-end project, API testing collection (Postman), and a small performance testing demo.
 
 ---
