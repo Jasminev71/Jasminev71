@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>CS undergraduate @ SNHU • Software QA student @ MTECH • Future SDET / QA Engineer</b>
+  <b>CS undergraduate @ SNHU • Software QA student @ MTECH • QA Engineer</b>
 </p>
 
 <p align="center">
