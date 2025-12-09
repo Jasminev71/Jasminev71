@@ -16,8 +16,10 @@
 </p>
 
 ---
+## 📜 Resume: [Software Quality Assurance Resume.docx](https://github.com/user-attachments/files/24058670/Software.Quality.Assurance.Resume.docx)
 
 ## 👋 About Me
+
 
 Hi, I’m **Jasmine** (she/her) — a CS student and Software QA student building a career as a **QA Engineer / SDET**.
 
