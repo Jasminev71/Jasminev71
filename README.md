@@ -16,7 +16,8 @@
 </p>
 
 ---
-## 📜 [Resume](https://github.com/user-attachments/files/24070331/Jasmine_Villarreal_Resume.docx)
+## 📜 [Resume](https://github.com/user-attachments/files/24070600/Jasmine_Villarreal_Resume.pdf)
+
 
 
 ## 👋 About Me
