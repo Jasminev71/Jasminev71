@@ -16,7 +16,8 @@
 </p>
 
 ---
-## 📜 Resume: [Software Quality Assurance Resume.docx](https://github.com/user-attachments/files/24058670/Software.Quality.Assurance.Resume.docx)
+## 📜 [Resume](https://github.com/user-attachments/files/24070331/Jasmine_Villarreal_Resume.docx)
+
 
 ## 👋 About Me
 
