@@ -23,7 +23,7 @@
 ## 👋 About Me
 
 
-Hi, I’m **Jasmine** (she/her) — a CS student and Software QA student building a career as a **QA Engineer**.
+Hi, I’m **Jasmine** (she/her/them) — a CS student and Software QA student building a career as a **QA Engineer**.
 
 - 🎓 **Student:** CS undergrad at **SNHU** + Software QA Student at **Mountainland Technical College (MTECH)**  
 - 🧪 **QA Focus:** Test automation, exploratory testing, API testing, and CI/CD  
