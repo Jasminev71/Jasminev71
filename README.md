@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>CS undergraduate @ SNHU • Software QA student @ MTECH • QA Engineer</b>
+  <b>CS undergraduate @ SNHU • Software QA Engineer @ GOLDpoint Systems • QA Alumni @ Mtech </b>
 </p>
 
 <p align="center">
